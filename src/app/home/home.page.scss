@@ -26,6 +26,6 @@
   text-decoration: none;
 }
 
-ion-content ion-toolbar {
-  --background: translucent;
+ion-content {
+  --background: linear-gradient(50deg,rgb(0, 180, 219), rgb(0, 131, 176)) !important;
 }
